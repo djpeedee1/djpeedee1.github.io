@@ -17,6 +17,10 @@ body {
     color: #2852bf;
 }
 
+.map-text {
+    color: #fff;
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
